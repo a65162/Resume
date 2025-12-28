@@ -1,6 +1,6 @@
 "use client";
 
-import React, { createContext, useContext, useState, ReactNode } from "react";
+import { createContext, useContext, useState, ReactNode } from "react";
 import zh from "../../public/zh.json";
 import en from "../../public/en.json";
 
@@ -16,9 +16,9 @@ interface LanguageContextType {
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined);
 
 export const LanguageProvider = ({ children }: { children: ReactNode }) => {
-  const [language, setLanguage] = useState<Language>("zh");
+  const [language, setLanguage] = useState<Language>("en");
 
-  const dict = language === "zh" ? zh : (en as Dictionary);
+  const dict = language === "zh" ? zh : en;
 
   return (
     <LanguageContext.Provider value={{ language, setLanguage, dict }}>
