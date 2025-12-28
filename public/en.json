@@ -1,0 +1,124 @@
+{
+  "Hero": {
+    "name": "Zhenwei Xu",
+    "tagline": "5 Years of Front-End Development Experience",
+    "qualities": [
+      "Diligent",
+      "Detail-oriented",
+      "Honest",
+      "Reliable",
+      "Punctual"
+    ],
+    "socials": {
+      "email": "mailto:resume@a-wei.link",
+      "github": "https://github.com/a65162",
+      "linkedin": "https://www.linkedin.com/in/zhen-wei-xu/"
+    }
+  },
+  "Skills": {
+    "title": "Technical Skills",
+    "categories": {
+      "Languages": [
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "HTML5",
+        "CSS3"
+      ],
+      "UI & Styling": [
+        "SCSS",
+        "Element Plus",
+        "BootstrapVue",
+        "Bootstrap",
+        "Tailwind CSS"
+      ],
+      "Tools": [
+        "Git",
+        "Vite",
+        "Docker",
+        "Proto",
+        "NVM",
+        "Gulp",
+        "Webpack",
+        "Prettier",
+        "Stylelint",
+        "ESLint"
+      ],
+      "CI/CD": [
+        "Drone",
+        "Github Actions"
+      ],
+      "OS": [
+        "Linux",
+        "macOS"
+      ],
+      "Front-End Frameworks": [
+        "Vue.js",
+        "React",
+        "Next.js",
+        "Nuxt.js"
+      ],
+      "State & Architecture": [
+        "Pinia",
+        "Vuex",
+        "REST APIs"
+      ]
+    }
+  },
+  "Portfolio": {
+    "title": "Portfolio",
+    "projects": [
+      {
+        "title": "Personal Blog",
+        "description": "A personal blog built with Next.js and Tailwind CSS, supporting Markdown rendering and dark mode.",
+        "technologies": [
+          "Next.js",
+          "React",
+          "Tailwind CSS",
+          "Markdown"
+        ],
+        "link": "https://example.com/blog",
+        "image": "/window.svg"
+      }
+    ]
+  },
+  "Experience": {
+    "title": "Work Experience",
+    "jobs": [
+      {
+        "title": "Front-End Engineer",
+        "company": "Honli Digital Creative Co., Ltd.",
+        "period": "2021/02 ～ 2025/03",
+        "description": [
+          "Led and participated in the front-end development, maintenance, and performance optimization of core products, ensuring high system availability.",
+          "Collaborated with the team to define front-end technology roadmaps and project architecture standards, improving development consistency and scalability.",
+          "Participated in a full product line refactoring project, successfully increasing system stability by 50% and reducing long-term maintenance costs by 50%.",
+          "Collaborated with the design team to establish a cross-product UI Component Library, covering 80% of design needs and shortening the development cycle for new features by 50%.",
+          "Introduced Trunk Based Development workflow, significantly improving iteration flexibility and enabling Feature Toggles.",
+          "Migrated part of the company's products to a Monorepo architecture, effectively integrating shared modules and reducing cross-project maintenance costs.",
+          "Built a complete CI/CD automated deployment process, eliminating human error risks and improving deployment efficiency.",
+          "Established and implemented a Code Review mechanism to ensure code quality and promote technical exchange within the team."
+        ]
+      },
+      {
+        "title": "Front-End Engineer",
+        "company": "Kuangshi Intelligent Co., Ltd.",
+        "period": "2019/04 ~ 2021/01",
+        "description": [
+          "Responsible for front-end development and optimization of core products.",
+          "Utilized core-js and Babel to solve cross-browser compatibility issues, ensuring stable operation of the social platform in legacy environments.",
+          "Deeply investigated and resolved Nuxt.js SSR memory leak issues, eliminating service restart pain points and significantly improving system stability.",
+          "Implemented interactive stock K-line and trend charts using ECharts, providing a smooth data visualization experience.",
+          "Integrated LINE LIFF and LINE BOT investment assistants, creating a seamless interaction experience between the social platform and messaging software.",
+          "Collaborated on the development of LINE BOT investment assistant features to increase user engagement."
+        ]
+      }
+    ]
+  },
+  "Footer": {
+    "rights": "Zhenwei Xu. All rights reserved.",
+    "builtWith": "Built with Next.js & Tailwind CSS"
+  },
+  "LanguageSwitcher": {
+    "label": "Language"
+  }
+}

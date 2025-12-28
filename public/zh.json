@@ -1,0 +1,124 @@
+{
+  "Hero": {
+    "name": "許榛洧",
+    "tagline": "五年的前端開發經驗",
+    "qualities": [
+      "勤奮",
+      "細心",
+      "誠實",
+      "可靠",
+      "守時"
+    ],
+    "socials": {
+      "email": "mailto:resume@a-wei.link",
+      "github": "https://github.com/a65162",
+      "linkedin": "https://www.linkedin.com/in/zhen-wei-xu/"
+    }
+  },
+  "Skills": {
+    "title": "技術技能",
+    "categories": {
+      "Languages": [
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "HTML5",
+        "CSS3"
+      ],
+      "UI & Styling": [
+        "SCSS",
+        "Element Plus",
+        "BootstrapVue",
+        "Bootstrap",
+        "Tailwind CSS"
+      ],
+      "Tools": [
+        "Git",
+        "Vite",
+        "Docker",
+        "Proto",
+        "NVM",
+        "Gulp",
+        "Webpack",
+        "Prettier",
+        "Stylelint",
+        "ESLint"
+      ],
+      "CI/CD": [
+        "Drone",
+        "Github Actions"
+      ],
+      "OS": [
+        "Linux",
+        "macOS"
+      ],
+      "Front-End Frameworks": [
+        "Vue.js",
+        "React",
+        "Next.js",
+        "Nuxt.js"
+      ],
+      "State & Architecture": [
+        "Pinia",
+        "Vuex",
+        "REST APIs"
+      ]
+    }
+  },
+  "Portfolio": {
+    "title": "作品集",
+    "projects": [
+      {
+        "title": "個人部落格",
+        "description": "使用 Next.js 和 Tailwind CSS 構建的個人部落格，支援 Markdown 渲染和深色模式。",
+        "technologies": [
+          "Next.js",
+          "React",
+          "Tailwind CSS",
+          "Markdown"
+        ],
+        "link": "https://example.com/blog",
+        "image": "/window.svg"
+      }
+    ]
+  },
+  "Experience": {
+    "title": "工作經驗",
+    "jobs": [
+      {
+        "title": "前端工程師",
+        "company": "宏麗數位創意股份有限公司",
+        "period": "2021/02 ～ 2025/03",
+        "description": [
+          "主導及參與公司核心產品的前端開發、維護與效能優化，確保系統高可用性。",
+          "與團隊共同制定前端技術藍圖與專案架構規範，提升開發一致性與可擴充性。",
+          "參與全產品線重構計畫，成功提升 50% 系統穩定度，並降低 50% 的長期維護成本。",
+          "與設計團隊協作建立跨產品 UI Component Library，覆蓋 80% 設計需求，縮短 50% 新功能開發週期。",
+          "導入主幹開發 (Trunk Based Development) 流程，大幅提升迭代靈活度，實現按需發布 (Feature Toggles)。",
+          "將一部分的公司產品遷移至 Monorepo 架構，有效整合共用模組，降低跨專案維護成本。",
+          "建置完整的 CI/CD 自動化部署流程，消除人為操作風險，提升部署效率。",
+          "建立並落實 Code Review 機制，確保程式碼品質並促進團隊技術交流。"
+        ]
+      },
+      {
+        "title": "前端工程師",
+        "company": "曠世智能股份有限公司",
+        "period": "2019/04 ~ 2021/01",
+        "description": [
+          "負責核心產品的前端開發與優化。",
+          "運用 core-js 與 Babel 解決跨瀏覽器兼容性問題，確保社群平台在舊版環境的穩定運行。",
+          "深入排查並解決 Nuxt.js SSR 記憶體洩漏 (Memory Leak) 問題，根除服務頻繁重啟的痛點，大幅提升系統穩定性。",
+          "使用 ECharts 實作互動式股市 K 線圖與趨勢圖表，提供流暢的數據視覺化體驗。",
+          "整合 LINE LIFF 與 LINE BOT 投資助理，建立社群平台與通訊軟體間的無縫互動體驗。",
+          "協同開發 LINE BOT 投資助理功能，提升用戶黏著度。"
+        ]
+      }
+    ]
+  },
+  "Footer": {
+    "rights": "許榛洧. All rights reserved.",
+    "builtWith": "Built with Next.js & Tailwind CSS"
+  },
+  "LanguageSwitcher": {
+    "label": "語言"
+  }
+}
