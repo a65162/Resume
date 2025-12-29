@@ -27,6 +27,7 @@ A high-quality, dark-themed personal resume website for Zhenwei Xu, built with N
 - **Hero**: Name, Tagline, Qualities, Social Links, Photo (ZH only).
 - **Skills**: Categorized technical skills.
 - **Experience**: Professional work history with bullet points.
+- **Education**: Academic background and degrees.
 - **Portfolio**: Project showcase with links and tech tags.
 - **Footer**: Copyright and tech info.
 

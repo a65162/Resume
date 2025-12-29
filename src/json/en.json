@@ -114,6 +114,21 @@
       }
     ]
   },
+  "Education": {
+    "title": "Education",
+    "schools": [
+      {
+        "school": "Lunghwa University of Science and Technology",
+        "major": "Department of Applied Foreign Languages",
+        "period": "2016 - 2018"
+      },
+      {
+        "school": "China University of Technology",
+        "major": "Department of Information Management",
+        "period": "2014 - 2016"
+      }
+    ]
+  },
   "Footer": {
     "rights": "Zhenwei Xu. All rights reserved.",
     "builtWith": "Built with Next.js & Tailwind CSS"

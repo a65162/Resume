@@ -114,6 +114,21 @@
       }
     ]
   },
+  "Education": {
+    "title": "學歷",
+    "schools": [
+      {
+        "school": "龍華科技大學",
+        "major": "應用外語系",
+        "period": "2016 ～ 2018"
+      },
+      {
+        "school": "中國科技大學",
+        "major": "資訊管理系",
+        "period": "2014 ～ 2016"
+      }
+    ]
+  },
   "Footer": {
     "rights": "許榛洧. All rights reserved.",
     "builtWith": "Built with Next.js & Tailwind CSS"

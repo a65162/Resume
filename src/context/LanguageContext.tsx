@@ -1,8 +1,8 @@
 "use client";
 
 import { createContext, useContext, useState, ReactNode } from "react";
-import zh from "../../public/zh.json";
-import en from "../../public/en.json";
+import zh from "@/json/zh.json";
+import en from "@/json/en.json";
 
 type Language = "zh" | "en";
 type Dictionary = typeof zh;
