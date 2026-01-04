@@ -7,8 +7,8 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const noto = Noto_Sans_TC({ subsets: ["latin"], variable: "--font-noto" });
 
 export const metadata: Metadata = {
-  title: "許榛洧 | Zhenwei Hsu - Front-End Engineer",
-  description: "Professional Resume of Zhenwei Hsu, a Front-End Engineer with 5 years of experience.",
+  title: "許榛洧 | Zhenwei Xu - Front-End Engineer",
+  description: "Professional Resume of Zhenwei Xu, a Front-End Engineer with 5 years of experience.",
 };
 
 export default function RootLayout({
